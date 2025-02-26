@@ -1,0 +1,38 @@
+Aqui está o valor total de vendas por site, separado por moeda:
+
+AliExpress
+EUR: 1100
+GBP: 1550
+USD: 2470
+
+Etsy
+EUR: 2850
+GBP: 930
+USD: 1410
+
+Shopee
+EUR: 1510
+GBP: 1570
+USD: 2540
+
+Aqui estão os cinco países com os maiores totais de vendas e descontos:
+
+Canadá:
+
+Total de vendas: 4.090
+Total de descontos: 760,04
+
+França:
+
+Total de vendas: 3.210
+Total de descontos: 511,42
+
+Japão:
+
+Total de vendas: 2.510
+Total de descontos: 499,80
+
+Austrália:
+
+Total de vendas: 2.330
+Total de descontos: 433,25
